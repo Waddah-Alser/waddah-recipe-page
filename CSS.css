@@ -1,0 +1,38 @@
+#om{
+    height: 400px;
+    width: 100%;
+}
+.t2{
+    color: hsl(14, 45%, 36%);
+}
+td , tr{
+    border-bottom: 1px black solid;
+    padding: 10px;
+}
+p{
+    font-size: 16px;
+}
+body{
+    margin: 30px;
+}
+#t{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    background-color: hsl(330, 100%, 98%);
+}
+li{
+    padding-left: 10px; 
+}
+#pt li::marker{
+    color:hsl(332, 51%, 32%) ;
+}
+h2{
+    color: hsl(14, 45%, 36%);
+}
+.mark li::marker{
+    color: hsl(14, 45%, 36%);
+}
+#w li::marker{
+    font-family: Impact;
+}
